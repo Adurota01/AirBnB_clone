@@ -89,7 +89,7 @@ Commands|Description
 quit|Quits the console
 Ctrl+D|Quits the console
 help or help <command|Displays all commands or Displays instructions for a specific command
-create <class>|Creates an object of type , saves it to a JSON file, and prints the objects ID
+create < class >|Creates an object of type , saves it to a JSON file, and prints the objects ID
 show <class> <ID>|Shows string representation of an object
 destroy <class> <ID>|Deletes an objects
 all or all <class>|Prints all string representations of all objects or Prints all string representations of all objects of a specific class
