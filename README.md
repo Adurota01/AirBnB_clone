@@ -85,7 +85,7 @@ The first phase is to manipulate a powerful storage system to give an abstractio
 # Description of the command interpreter:
 
 Commands|Description
--------------------
+--------|-----------
 quit|Quits the console
 
 Ctrl+D|Quits the console
