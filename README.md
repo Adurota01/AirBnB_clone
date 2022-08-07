@@ -13,6 +13,7 @@ This console will allow us to do the following:
 * The console can be run in both interactive and non-interactive mode.
 * It prints a prompt (hbnb) and waits for the user for input.
 ## Interactive Mode
+```
 $ ./console.py
 (hbnb) help
 
@@ -24,3 +25,4 @@ EOF  help  quit
 (hbnb)
 (hbnb) quit
 $
+```
